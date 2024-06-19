@@ -51,9 +51,9 @@
 
 ;; oxocarbon palette
 
-(local base00 "#161616")
-(local base06 "#ffffff")
-(local base09 "#78a9ff")
+(local base00 "#1d283a")
+(local base06 "#f8fafc")
+(local base09 "#7ed4fc")
 
 (local oxocarbon (or (and (= vim.o.background :dark)
                           {: base00
@@ -63,16 +63,16 @@
                            :base04 (blend-hex base00 base06 0.82)
                            :base05 (blend-hex base00 base06 0.95)
                            : base06
-                           :base07 "#08bdba"
-                           :base08 "#3ddbd9"
+                           :base07 "#98f6e3"
+                           :base08 "#67e8f9"
                            : base09
-                           :base10 "#ee5396"
-                           :base11 "#33b1ff"
-                           :base12 "#ff7eb6"
-                           :base13 "#42be65"
-                           :base14 "#be95ff"
-                           :base15 "#82cfff"
-                           :blend "#131313"
+                           :base10 "#fb6f84"
+                           :base11 "#7ed4fc"
+                           :base12 "#f471b5"
+                           :base13 "#36d399"
+                           :base14 "#a689fa"
+                           :base15 "#0c4a6e"
+                           :blend "#0f1729"
                            :none :NONE})
                      {:base00 base06
                       :base01 (blend-hex base00 base06 0.95)
