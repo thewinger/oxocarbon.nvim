@@ -66,11 +66,12 @@
                            :base07 "#98f6e3"
                            :base08 "#67e8f9"
                            : base09
-                           :base10 "#fb6f84"
+                           :base10 "#f471b5"
                            :base11 "#7ed4fc"
-                           :base12 "#f471b5"
+                           :base12 "#fb6f84"
                            :base13 "#36d399"
-                           :base14 "#a689fa"
+                           :base14 base06
+                           ;:base14 "#a689fa"
                            :base15 "#0c4a6e"
                            :blend "#0f1729"
                            :none :NONE})
