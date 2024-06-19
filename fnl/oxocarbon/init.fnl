@@ -68,7 +68,7 @@
                            : base09
                            :base10 "#f471b5"
                            :base11 "#7ed4fc"
-                           :base12 "#fda4af"
+                           :base12 "#fda4a"
                            :base13 "#36d399"
                            :base14 base06
                            ;:base14 "#a689fa"
