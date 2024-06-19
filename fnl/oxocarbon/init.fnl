@@ -318,7 +318,7 @@
 (custom-set-face! :SpecialComment [] {:fg oxocarbon.base08 :bg oxocarbon.none})
 (custom-set-face! :Statement [] {:fg oxocarbon.base09 :bg oxocarbon.none})
 (custom-set-face! :StorageClass [] {:fg oxocarbon.base09 :bg oxocarbon.none})
-(custom-set-face! :String [] {:fg oxocarbon.base14 :bg oxocarbon.none})
+(custom-set-face! :String [] {:fg oxocarbon.base06 :bg oxocarbon.none})
 (custom-set-face! :Structure [] {:fg oxocarbon.base09 :bg oxocarbon.none})
 (custom-set-face! :Tag [] {:fg oxocarbon.base04 :bg oxocarbon.none})
 (custom-set-face! :Todo [] {:fg oxocarbon.base13 :bg oxocarbon.none})
